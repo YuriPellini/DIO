@@ -4,21 +4,56 @@ Criado por: Yuri Pellini
 ************************************************/
 /* Altera o cor de fundo da página */
 body{
-	background-color: #ccc;
+	background-color: #f7f7f7;
+	font-family: Verdana;
+	max-width: 1200px;
+	margin: auto;
 }
 /* Altera a cor do texto */
-#Titulo, .Subtitulo, .Titulo_post{
-	color: blue;
+.Titulo, .Subtitulo, .Titulo_post{
+	color: #505050;
 }
 /* Atera o tamanho do texto */
+a{
+	text-decoration: line-through;
+	color: #505050;
+}
+.Titulo{
+	font-size: 40px;
+	text-transform: uppercase;
+}
 .Titulo_post{
 	font-size: 16px;
 	font-style: italic;
+	margin: 0;
+	margin-bottom: 15px;
 }
-/* exemplificação */
+.ListaC li a{
+	text-decoration: none;
+}
+/* Exemplificação de box-model? */
 .Post{
 	background-color: white;
-	padding: 10px;
-	border: 3px solid #000;
-	margin: 10px;
+	padding: 15px;
+	border: 3px solid #505050;
+	margin-bottom: 15px;
+	border-radius: 7px;
+}
+.Conteudo{
+	margin: 0;
+	margin-bottom: 15px;
+	text-transform: capitalize;
+	text-align: justify;
+}
+.Imagem{
+	margin-bottom: 15px;
+	width: 70%;
+}
+.ImagemT{
+	border: 1px solid #505050;
+	border-radius: 50px;
+}
+.ListaC{
+	list-style-type: none;
+	padding-left: 15px;
 }
