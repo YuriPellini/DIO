@@ -1,0 +1,31 @@
+/***************************************************
+Arquivo de formatação visual de suporte ao framework
+Criado por: Yuri Pellini
+***************************************************/
+body {
+    font-size: 20px;
+    font-family: sans-serif, Arial;
+}
+/* Altera o cor de fundo do menu de navagação */
+.navbar {
+    background-color: royalblue;
+}
+/* Altera o cor de fundo da sessão de navagação */
+.Quem-somos {
+    background-color: cyan;
+}
+.parceiros {
+    background-color: turquoise;
+}
+.bg-footer {
+    background-color: black;
+    color: whitesmoke;
+}
+/* Altera a margem */
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.margin-top {
+    padding-top: 50px;
+}
