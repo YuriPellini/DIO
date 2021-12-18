@@ -14,4 +14,7 @@ Foi visto necessário fazer um arquivo anotações por conta de certas informaç
 Aula do méodulo Introdução a criação de websites com HTML5 e CSS3 terminada. \
 17/12/2021 \
 Inicio da aula sobre o framework Bootstrap. \
-Termino da aula sobre o framework. 
+Termino da aula sobre o framework. \
+18/12/2021 \
+Inicio da aula Introdução ao JavaScript. \
+Termino da aula Introdução ao JavaScript.
